@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\bin\Debug\net6.0\Employee_Wage_Program.exe
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\bin\Debug\net6.0\Employee_Wage_Program.deps.json
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\bin\Debug\net6.0\Employee_Wage_Program.runtimeconfig.json
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\bin\Debug\net6.0\Employee_Wage_Program.dll
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\bin\Debug\net6.0\Employee_Wage_Program.pdb
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.AssemblyInfo.cs
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.dll
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\refint\Employee_Wage_Program.dll
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.pdb
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\Employee_Wage_Program.genruntimeconfig.cache
+C:\Users\user\source\repos\Employee_Wage_Program\Employee_wage_Program-1\Employee_Wage_Program\obj\Debug\net6.0\ref\Employee_Wage_Program.dll
